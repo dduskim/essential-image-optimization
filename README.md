@@ -1,4 +1,4 @@
-<p align="center">
+2p align="center">
   <a href="https://images.guide/">
     <img src='/app/images/logo-banner.jpg' alt="Essential Image Optimization"/>
   </a>
